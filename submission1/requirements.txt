@@ -8,7 +8,6 @@ anyio==4.6.2.post1
 asttokens==2.2.1
 astunparse==1.6.3
 async-timeout==4.0.3
-attorney @ file:///mnt/c/Users/91790/Downloads/attorney-2.0.0-py3-none-any.whl#sha256=155254781cd8e3b3576ff139fbf99c94668d9e61612b81ea22cf3829dec1f813
 attrs==24.2.0
 backcall==0.2.0
 backports.functools-lru-cache==1.6.5
